@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <footer className="bg-ink pb-12 pt-4 text-white/80">
       <div className="mx-auto max-w-6xl border-t border-white/15 px-4 pt-8">
-        <p className="font-display font-bold text-white">ADAL URPAQ | {lang === "kz" ? "Адал КПТК" : "Честный КПТК"}</p>
+        <p className="font-display font-bold text-white">ADAL URPAQ | {lang === "kz" ? "Адал ККЦТД" : "Честный ККЦТД"}</p>
         <p className="mt-2 text-sm">{config.collegeFull[lang]}</p>
         <p className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm font-semibold text-sun">
           {config.hashtags.map((x) => <span key={x}>{x}</span>)}
