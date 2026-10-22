@@ -8,10 +8,10 @@ const body = Manrope({ subsets: ["latin", "cyrillic", "cyrillic-ext"], variable:
 export const metadata = {
   title: "ADAL URPAQ | Честный КПТК",
   description:
-    "Антикоррупционный проект студентов КПТК: квиз «Адал Азамат», локальный генератор обращений и права студента. #SaryarqaJastary #AdalUrpaq #ЖастарЖастарға",
+    "Антикоррупционный проект студентов ККЦТД: квиз «Адал Азамат», локальный генератор обращений и права студента. #SaryarqaJastary #AdalUrpaq #ЖастарЖастарға",
   icons: { icon: "/icon.svg" },
   openGraph: {
-    title: "ADAL URPAQ | Честный КПТК",
+    title: "ADAL URPAQ | Честный ККЦТД",
     description: "Квиз, обращение за 2 минуты и права студента. Без сбора данных.",
     type: "website",
   },
